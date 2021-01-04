@@ -34,5 +34,9 @@ which is required for the API call. Or configure the city which is present in Ci
 
 9. Open the reports html in any browser. D:\Assignment\Report.html
 
+10. To configure the temperature variation, update the value in TestData.Api_Ui_Temperature_Variation. 
+
+	10.a Similar approach can be followed to update the variation for humidity. Change the value in TestData.Api_Ui_Humidity_Variation.
+
 Note: There are few network related errors getting displayed on console. These errors are not harmful and are not affecting the test execution.I am in search
 to make this off.
